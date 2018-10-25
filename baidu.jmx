@@ -33,7 +33,7 @@
           <stringProp name="HTTPSampler.port">80</stringProp>
           <stringProp name="HTTPSampler.protocol">http</stringProp>
           <stringProp name="HTTPSampler.contentEncoding">utf-8</stringProp>
-          <stringProp name="HTTPSampler.path">/s?wd=${__RandomString(5,郭勋嘿哈呵,)}</stringProp>
+          <stringProp name="HTTPSampler.path">/s?wd=${__RandomString(5,郭勋哈呵,)}</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
